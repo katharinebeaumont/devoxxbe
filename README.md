@@ -17,6 +17,8 @@ Any issues downloading this or running it please give myself, Linda or Regina a 
 
 2. This works in conjunction with [Agent](https://github.com/katharinebeaumont/Agent). This is a remote agent that takes from the environment a set of possible directions, and maybe a reward, and decides which action to take next. You can add more than one agent to the environment. When training, they cannot occupy the same space (this is controlled by the environment), so they are in competition.
 
+You need to complete the missing code in Agent. Bonus points for adding artwork!
+
 ## Bonus points
 
 1. Add tests to Agent.
